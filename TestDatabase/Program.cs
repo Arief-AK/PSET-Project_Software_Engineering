@@ -42,7 +42,6 @@ namespace TestDatabase
             });
 
             // Here to make program run until user stops it
-            // Initial commit
             Console.ReadLine();
         }
     }
