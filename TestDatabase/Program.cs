@@ -42,7 +42,7 @@ namespace TestDatabase
             });
 
             // Here to make program run until user stops it
-            // Nice
+            // Initial commit
             Console.ReadLine();
         }
     }
