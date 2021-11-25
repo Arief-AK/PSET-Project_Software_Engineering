@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eu2GtjYijuYb0RrKKibQuRPLZbMKxmRaUzP3Zm9zc+oIdW6d92+t9AGiNGru7Od0hoxUnthQAlbPkh2kLF1akA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Arief\\source\\repos\\TestDatabase\\TestDatabase\\TestDatabase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arief\\.nuget\\packages\\mqttnet\\3.1.0\\mqttnet.3.1.0.nupkg.sha512",
+    "C:\\Users\\Arief\\.nuget\\packages\\mqttnet.extensions.managedclient\\3.1.0\\mqttnet.extensions.managedclient.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
