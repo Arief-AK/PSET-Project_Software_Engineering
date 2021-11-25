@@ -42,6 +42,7 @@ namespace TestDatabase
             });
 
             // Here to make program run until user stops it
+            // Nice
             Console.ReadLine();
         }
     }
